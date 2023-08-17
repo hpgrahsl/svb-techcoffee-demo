@@ -1,4 +1,4 @@
-# Strangler Fig Pattern Demo @ RivieraDev 🇫🇷 2023
+# Strangler Fig Pattern Demo @ SVB 🇳🇱 Tech Coffee Session ☕️ 2023
 
 ### **0. Prerequisite**
 
